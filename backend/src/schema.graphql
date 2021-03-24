@@ -1,0 +1,5 @@
+type Query {
+  sayBye: String!
+  sayHello: String!
+  sayYun: String!
+}
